@@ -1,5 +1,5 @@
 # Hello GitHub! I'm Ben
-I'm a Computer Engineering student finishing up my degree and making cool things. After school, I hope to go into embeded systems programing. Recently, I've been contributing to some open source Discord Bots like [Steve](https://github.com/tuataria/steve). Take a look at some of my recent projects I've pinned below.
+I'm a Computer Engineering student finishing up my degree and making cool things. After school, I hope to go into embedded systems programming. Recently, I've been contributing to some open source Discord Bots like [Steve](https://github.com/tuataria/steve). Take a look at some of my recent projects I've pinned below.
 
 
 [![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenSegal855&show_icons=true&theme=tokyonight)](https://github.com/BenSegal855)
