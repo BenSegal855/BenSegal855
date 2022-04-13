@@ -3,8 +3,10 @@ I'm a Computer Engineering student finishing up my degree and making cool things
 
 [![Metrics (refresh if you see this)](https://metrics.lecoq.io/bensegal855?template=classic&repositories.forks=true&repositories.affiliations=collaborator&activity=1&isocalendar=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FNew_York)](https://github.com/BenSegal855)
 
-[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenSegal855&show_icons=true&theme=dark)](https://github.com/BenSegal855)
 
+[![Coders Rank Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bensegal855&badges=&show-avatar=true&width=250&style=--bg-color:%23111;--header-bg-color:%23000;--badge-bg-color:%23333;--badge-text-color:%23fff;--border-radius:10px)](https://profile.codersrank.io/user/bensegal855/)
+
+[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenSegal855&show_icons=true&theme=dark)](https://github.com/BenSegal855)
 
 <!--
 [![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenSegal855&show_icons=true&theme=tokyonight)](https://github.com/BenSegal855)
