@@ -1,5 +1,5 @@
 # Hello GitHub! I'm Ben
-I'm a Computer Engineering student finishing up my degree and making cool things. After school, I hope to go into embedded systems programming. Recently, I've been contributing to some open source Discord Bots like [Steve](https://github.com/tuataria/steve). Take a look at some of my recent projects I've pinned below.
+I'm a full time developer at a major financial institution. I have a Computer Engineering degree and have been coding cool things for quite some time now. Recently, I've been contributing to some open source Discord tools like [Sapphire](https://www.sapphirejs.dev/) and [Steve](https://github.com/tuataria/steve). Take a look at some of my recent projects I've pinned below.
 
 [![Metrics (refresh if you see this)](https://metrics.lecoq.io/bensegal855?template=classic&repositories.forks=true&repositories.affiliations=collaborator&activity=1&isocalendar=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FNew_York)](https://github.com/BenSegal855)
 
