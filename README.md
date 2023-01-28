@@ -1,12 +1,11 @@
 # Hello GitHub! I'm Ben
 I'm a full time developer at a major financial institution. I have a Computer Engineering degree and have been coding cool things for quite some time now. Recently, I've been contributing to some open source Discord tools like [Sapphire](https://www.sapphirejs.dev/) and [Steve](https://github.com/tuataria/steve). Take a look at some of my recent projects I've pinned below.
 
-[![Metrics (refresh if you see this)](https://metrics.lecoq.io/bensegal855?template=classic&repositories.forks=true&repositories.affiliations=collaborator&activity=1&isocalendar=1&isocalendar.duration=half-year&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=America%2FNew_York)](https://github.com/BenSegal855)
+[![Coders Rank Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bensegal855&branding=false&badges=&show-avatar=true&width=250&style=--bg-color:%23111;--header-bg-color:%23000;--badge-bg-color:%23151515;--badge-text-color:%238888BB;--border-radius:4.5px;--badge-margin:0px;--badge-padding:0px;--badges-padding:0px;--border:.1px%20solid%20white)](https://profile.codersrank.io/user/bensegal855/)
 
+[![Ben's current commit streak](https://streak-stats.demolab.com/?user=bensegal855&theme=dark&mode=weekly&fire=8888bb&ring=000855&currStreakLabel=8888bb&currStreakNum=8888bb)](https://github.com/BenSegal855)
 
-[![Coders Rank Profile](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=bensegal855&badges=&show-avatar=true&width=250&style=--bg-color:%23111;--header-bg-color:%23000;--badge-bg-color:%23333;--badge-text-color:%23fff;--border-radius:10px)](https://profile.codersrank.io/user/bensegal855/)
-
-[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenSegal855&show_icons=true&theme=dark)](https://github.com/BenSegal855)
+[![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenSegal855&show_icons=true&theme=dark&ring_color=000855&title_color=8888bb&icon_color=8888bb&card_width=495)](https://github.com/BenSegal855)
 
 <!--
 [![Ben's github stats](https://github-readme-stats.vercel.app/api?username=BenSegal855&show_icons=true&theme=tokyonight)](https://github.com/BenSegal855)
